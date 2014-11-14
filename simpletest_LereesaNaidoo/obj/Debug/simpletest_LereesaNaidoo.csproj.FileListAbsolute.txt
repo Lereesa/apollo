@@ -1,0 +1,67 @@
+c:\users\lereesa\documents\visual studio 2012\Projects\simpletest_LereesaNaidoo\simpletest_LereesaNaidoo\bin\simpletest_LereesaNaidoo.dll
+c:\users\lereesa\documents\visual studio 2012\Projects\simpletest_LereesaNaidoo\simpletest_LereesaNaidoo\bin\simpletest_LereesaNaidoo.pdb
+c:\users\lereesa\documents\visual studio 2012\Projects\simpletest_LereesaNaidoo\simpletest_LereesaNaidoo\bin\Antlr3.Runtime.dll
+c:\users\lereesa\documents\visual studio 2012\Projects\simpletest_LereesaNaidoo\simpletest_LereesaNaidoo\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\lereesa\documents\visual studio 2012\Projects\simpletest_LereesaNaidoo\simpletest_LereesaNaidoo\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+c:\users\lereesa\documents\visual studio 2012\Projects\simpletest_LereesaNaidoo\simpletest_LereesaNaidoo\bin\DotNetOpenAuth.AspNet.dll
+c:\users\lereesa\documents\visual studio 2012\Projects\simpletest_LereesaNaidoo\simpletest_LereesaNaidoo\bin\DotNetOpenAuth.Core.dll
+c:\users\lereesa\documents\visual studio 2012\Projects\simpletest_LereesaNaidoo\simpletest_LereesaNaidoo\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\lereesa\documents\visual studio 2012\Projects\simpletest_LereesaNaidoo\simpletest_LereesaNaidoo\bin\DotNetOpenAuth.OAuth.dll
+c:\users\lereesa\documents\visual studio 2012\Projects\simpletest_LereesaNaidoo\simpletest_LereesaNaidoo\bin\DotNetOpenAuth.OpenId.dll
+c:\users\lereesa\documents\visual studio 2012\Projects\simpletest_LereesaNaidoo\simpletest_LereesaNaidoo\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\lereesa\documents\visual studio 2012\Projects\simpletest_LereesaNaidoo\simpletest_LereesaNaidoo\bin\EntityFramework.dll
+c:\users\lereesa\documents\visual studio 2012\Projects\simpletest_LereesaNaidoo\simpletest_LereesaNaidoo\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\lereesa\documents\visual studio 2012\Projects\simpletest_LereesaNaidoo\simpletest_LereesaNaidoo\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+c:\users\lereesa\documents\visual studio 2012\Projects\simpletest_LereesaNaidoo\simpletest_LereesaNaidoo\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\lereesa\documents\visual studio 2012\Projects\simpletest_LereesaNaidoo\simpletest_LereesaNaidoo\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\lereesa\documents\visual studio 2012\Projects\simpletest_LereesaNaidoo\simpletest_LereesaNaidoo\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\lereesa\documents\visual studio 2012\Projects\simpletest_LereesaNaidoo\simpletest_LereesaNaidoo\bin\Microsoft.Web.Infrastructure.dll
+c:\users\lereesa\documents\visual studio 2012\Projects\simpletest_LereesaNaidoo\simpletest_LereesaNaidoo\bin\System.Web.Optimization.dll
+c:\users\lereesa\documents\visual studio 2012\Projects\simpletest_LereesaNaidoo\simpletest_LereesaNaidoo\bin\System.Web.Providers.dll
+c:\users\lereesa\documents\visual studio 2012\Projects\simpletest_LereesaNaidoo\simpletest_LereesaNaidoo\bin\WebGrease.dll
+c:\users\lereesa\documents\visual studio 2012\Projects\simpletest_LereesaNaidoo\simpletest_LereesaNaidoo\bin\EntityFramework.xml
+c:\users\lereesa\documents\visual studio 2012\Projects\simpletest_LereesaNaidoo\simpletest_LereesaNaidoo\bin\DotNetOpenAuth.Core.xml
+c:\users\lereesa\documents\visual studio 2012\Projects\simpletest_LereesaNaidoo\simpletest_LereesaNaidoo\bin\DotNetOpenAuth.OAuth.xml
+c:\users\lereesa\documents\visual studio 2012\Projects\simpletest_LereesaNaidoo\simpletest_LereesaNaidoo\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\lereesa\documents\visual studio 2012\Projects\simpletest_LereesaNaidoo\simpletest_LereesaNaidoo\bin\DotNetOpenAuth.OpenId.xml
+c:\users\lereesa\documents\visual studio 2012\Projects\simpletest_LereesaNaidoo\simpletest_LereesaNaidoo\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\lereesa\documents\visual studio 2012\Projects\simpletest_LereesaNaidoo\simpletest_LereesaNaidoo\bin\DotNetOpenAuth.AspNet.xml
+c:\users\lereesa\documents\visual studio 2012\Projects\simpletest_LereesaNaidoo\simpletest_LereesaNaidoo\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+c:\users\lereesa\documents\visual studio 2012\Projects\simpletest_LereesaNaidoo\simpletest_LereesaNaidoo\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\lereesa\documents\visual studio 2012\Projects\simpletest_LereesaNaidoo\simpletest_LereesaNaidoo\obj\Debug\simpletest_LereesaNaidoo.csprojResolveAssemblyReference.cache
+c:\users\lereesa\documents\visual studio 2012\Projects\simpletest_LereesaNaidoo\simpletest_LereesaNaidoo\obj\Debug\simpletest_LereesaNaidoo.dll
+c:\users\lereesa\documents\visual studio 2012\Projects\simpletest_LereesaNaidoo\simpletest_LereesaNaidoo\obj\Debug\simpletest_LereesaNaidoo.pdb
+F:\apollo\simpletest_LereesaNaidoo\bin\simpletest_LereesaNaidoo.dll.config
+F:\apollo\simpletest_LereesaNaidoo\bin\simpletest_LereesaNaidoo.dll
+F:\apollo\simpletest_LereesaNaidoo\bin\simpletest_LereesaNaidoo.pdb
+F:\apollo\simpletest_LereesaNaidoo\bin\Antlr3.Runtime.dll
+F:\apollo\simpletest_LereesaNaidoo\bin\AspNet.ScriptManager.jQuery.dll
+F:\apollo\simpletest_LereesaNaidoo\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+F:\apollo\simpletest_LereesaNaidoo\bin\DotNetOpenAuth.AspNet.dll
+F:\apollo\simpletest_LereesaNaidoo\bin\DotNetOpenAuth.Core.dll
+F:\apollo\simpletest_LereesaNaidoo\bin\DotNetOpenAuth.OAuth.Consumer.dll
+F:\apollo\simpletest_LereesaNaidoo\bin\DotNetOpenAuth.OAuth.dll
+F:\apollo\simpletest_LereesaNaidoo\bin\DotNetOpenAuth.OpenId.dll
+F:\apollo\simpletest_LereesaNaidoo\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+F:\apollo\simpletest_LereesaNaidoo\bin\EntityFramework.dll
+F:\apollo\simpletest_LereesaNaidoo\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\apollo\simpletest_LereesaNaidoo\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+F:\apollo\simpletest_LereesaNaidoo\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\apollo\simpletest_LereesaNaidoo\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\apollo\simpletest_LereesaNaidoo\bin\Microsoft.ScriptManager.WebForms.dll
+F:\apollo\simpletest_LereesaNaidoo\bin\Microsoft.Web.Infrastructure.dll
+F:\apollo\simpletest_LereesaNaidoo\bin\System.Web.Optimization.dll
+F:\apollo\simpletest_LereesaNaidoo\bin\System.Web.Providers.dll
+F:\apollo\simpletest_LereesaNaidoo\bin\WebGrease.dll
+F:\apollo\simpletest_LereesaNaidoo\bin\EntityFramework.xml
+F:\apollo\simpletest_LereesaNaidoo\bin\DotNetOpenAuth.Core.xml
+F:\apollo\simpletest_LereesaNaidoo\bin\DotNetOpenAuth.OAuth.xml
+F:\apollo\simpletest_LereesaNaidoo\bin\DotNetOpenAuth.OAuth.Consumer.xml
+F:\apollo\simpletest_LereesaNaidoo\bin\DotNetOpenAuth.OpenId.xml
+F:\apollo\simpletest_LereesaNaidoo\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+F:\apollo\simpletest_LereesaNaidoo\bin\DotNetOpenAuth.AspNet.xml
+F:\apollo\simpletest_LereesaNaidoo\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+F:\apollo\simpletest_LereesaNaidoo\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\apollo\simpletest_LereesaNaidoo\obj\Debug\simpletest_LereesaNaidoo.csprojResolveAssemblyReference.cache
+F:\apollo\simpletest_LereesaNaidoo\obj\Debug\simpletest_LereesaNaidoo.dll
+F:\apollo\simpletest_LereesaNaidoo\obj\Debug\simpletest_LereesaNaidoo.pdb
